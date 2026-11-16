@@ -1,0 +1,13 @@
+export const ROLES = {
+  CUSTOMER: 'CUSTOMER',
+  SELLER: 'SELLER',
+  ADMIN: 'ADMIN',
+};
+
+export const SELLER_STATUS = {
+  PENDING: 'PENDING',
+  APPROVED: 'APPROVED',
+  REJECTED: 'REJECTED',
+  SUSPENDED: 'SUSPENDED',
+};
+
